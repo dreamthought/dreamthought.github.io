@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello there!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I'm Raf. I'll be your host here. I've been looking for somewhere to throw uncencored throughts out, rich in typos and other noise.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Follow my InfoQ news articles at: [https://www.infoq.com/profile/Rafiq-Gemmail]
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Follow me on Twitter for my microblogged spew: [https://www.twitter.com/fiqus]
+
+Follow me on instagram for silly pictures and Pokemon: [https://www.instagram.com/fiqus/]
