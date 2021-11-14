@@ -3,9 +3,7 @@ layout: post
 title: InfoQ Engineering Culture Trends Report - 2021
 ---
 
-## Summary
-
-Check out the bell curve we expect to see in 2021, base on the experiences of our team of InfoQ Editors.
+Check out the bell curve we expect to see in 2021, based on the experiences of our team of InfoQ Editors.
 
 List to the original on InfoQ: [https://www.infoq.com/articles/culture-trends-2021](https://www.infoq.com/articles/culture-trends-2021)
 
