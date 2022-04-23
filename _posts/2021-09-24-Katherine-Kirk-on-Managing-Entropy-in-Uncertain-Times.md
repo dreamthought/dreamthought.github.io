@@ -38,4 +38,4 @@ InfoQ: How can our readers learn more about the methods you’ve described?
 
 Kirk: I’ve been in hibernation for the last few years, developing and working on case studies with an amazing group of people. There should be a book out soon, created by our little community of practitioners which will help. Stay tuned!
 {% endcapture %}
-{% include minimisable.html summary="Click to read" content=full-copy %}
+{% include minimisable.html summary="Read here" content=full-copy %}
