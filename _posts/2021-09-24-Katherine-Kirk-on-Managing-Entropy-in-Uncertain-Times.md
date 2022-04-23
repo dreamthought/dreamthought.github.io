@@ -8,9 +8,7 @@ I spoke with my wonderful mentor Katherine Kirk about techniques for intentional
 
 Read the Original at InfoQ: [Q&A with Katherine Kirk on Managing Entropy in Uncertain Times](https://www.infoq.com/news/2020/09/katherine-kirk/)
 
-<details>
-<summary>Read Here</summary>
-
+{% capture full-copy %}
 InfoQ recently published a recording of a talk titled [When There’s No Control, What Can You Do To Thrive?](https://www.infoq.com/presentations/leadership-survive-thrive) by [Katherine Kirk](https://www.infoq.com/profile/Katherine-Kirk/), a speaker and leadership consultant who specialises in transformative resilience. The talk was aimed at providing tools for managing the inevitable organisational impact of entropy and complexity. Kirk's talk discussed using situational awareness and analysis to understand and respond to change, touching on tools for adapting to the rapidly changing context of the current pandemic.
 
 Talking at Assurity Consulting’s Bringing the Future Forward COVID-19 fundraiser, Kirk described how entropy manifests itself as "degradation, dysfunction and expiry" impacting individuals, teams, products and relationships. She explained that leaders can "counterbalance" entropy through understanding and responding to situational dynamics at play.
@@ -39,5 +37,5 @@ Kirk: We can get control. It just doesn’t last forever. Delusion that we have 
 InfoQ: How can our readers learn more about the methods you’ve described?
 
 Kirk: I’ve been in hibernation for the last few years, developing and working on case studies with an amazing group of people. There should be a book out soon, created by our little community of practitioners which will help. Stay tuned!
-
-<details>
+{% endcapture %}
+{% include minimisable.html summary="Click to read" content=full-copy %}

@@ -9,8 +9,7 @@ Read my InfoQ news piece where I interview Manuel Pais on several insights relat
 
 Read the original on [InfoQ News Piece: https://www.infoq.com/news/2021/03/team-topologies-during-pandemic/](https://www.infoq.com/news/2021/03/team-topologies-during-pandemic/)
 
-<details>
-<summary>Continue Here</summary>
+{% capture full-copy %}
 
 Manuel Pais, InfoQ editor and co-author of [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://teamtopologies.com/book), recently spoke on a [webcast organised by Capra Consulting](https://www.youtube.com/watch?v=lksI_2QL5Ww). Aslak Ege and Ørjan Bøe Thygesen, respectively CEO and Team Leader at Capra consulting, joined Pais and spoke of their journey with Team Topologies. Capra had applied the topologies to "radically redesign" their teams from a hierarchical structure to being more stream aligned. They described a journey during COVID-19, which resulted in an intentional move to a flat structure, with measured improvements in alignment and employee NPS. We spoke with Pais to understand how Team Topologies can help businesses like Capra in the current climate.
 
@@ -91,4 +90,6 @@ Ege ended his presentation by speaking of his pride in having successfully adopt
 
 I am also really proud of the fact that we have done this in the middle of a pandemic that we didn't pause or cancel the change. We went on with it despite being locked at home and so far the results are very good.
 
-</details>
+{% endcapture %}
+
+{% include minimisable.html content=full-copy summary="Read here..." %}
