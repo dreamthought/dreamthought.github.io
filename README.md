@@ -1,8 +1,8 @@
-# Notes whilst removing Jeykyll now
+# Dreamthought Jekyll Project
 
-* Add latest jekyll and gh-pages
-* Setup staging site
-* Added rake with serve dev task: `bundle exec rake servedev`
-* Create staging repo
-* Add missing left nav
+- Jekylly based blog for Dreamthought.com 
 
+
+# Background
+
+Thanks to [jekyllnow](https://github.com/barryclark/jekyll-now) which this repo was initially based on.
